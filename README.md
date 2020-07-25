@@ -4,7 +4,7 @@ LadderWarp is a small KSP mod that lets you use timewarp with EVA kerbals on lad
 
 ## A bit of warning
 
-I don't really understand how do the config numbers for ejectionDirection and ejectionForceDirection work. When you leave the ladder's seat your kerbal is spawned not exactly at the ladder he/she occupied. Make sure you use these virtual seats only on ladders with some free space around. It is possible that you won't be able to grab a ladder after detaching, please take some EVA fuel. And the last thing. Warranty void if ejection force is not zero. Use ejection force slider **at your risk**.
+I don't really understand how do the config numbers for ejectionDirection and ejectionForceDirection work. When you leave the ladder's seat your kerbal is spawned not exactly at the ladder he/she occupied. Make sure you use these virtual seats only on ladders with some free space around. It is possible that you won't be able to grab a ladder after detaching, please take some EVA fuel. And the last thing. Warranty void if ejection force is not zero. Use ejection force slider **at your own risk**.
 
 ## A bit of asking for help
 
