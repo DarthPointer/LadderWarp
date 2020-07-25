@@ -4,6 +4,13 @@ namespace LadderWarp
 {
     public class LadderSeat : KerbalSeat
     {
+        public override void OnStart(StartState state)
+        {
+            base.OnStart(state);
+            Events["MakeReferenceTransform"].guiActive = false;
+            Events["BoardSeat"].unfocusedRange = 0.5f;
+        }
+
         public override CommNet.VesselControlState GetControlSourceState()
         {
             return CommNet.VesselControlState.None;
